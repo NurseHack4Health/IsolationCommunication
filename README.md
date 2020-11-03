@@ -1,0 +1,2 @@
+# IsolationCommunication
+Creating virtual communication to end isolation anxiety in the care of COVID-19 patients. Currently nurses are using dry-erase boards or walkie talkies to communicate their needs when in a negative pressure room. Would like to find a solution through the use of computers or the patient's TV for nurses to be able to communicate virtually/hands free to their coworkers outside the room.
