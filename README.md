@@ -31,5 +31,7 @@ A SIP based IP calling server would likely need to be implemented too - unless w
 
 A python based backend and **very** light UI has been implemented (only the TTS portion functions for now, but each function has working code in "methods.py", it just needs to be implemented.
 
+Run ui.py to see the prototype.
+
 CMU Sphinx is used for offline STT, Microsoft Zira/Alex is used for TTS (without extended GPU training, they're the best windows native options), a sample email to mailtrap as an mvp for a notetaking application.
 
