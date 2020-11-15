@@ -5,7 +5,6 @@ Creating virtual communication to end isolation anxiety in the care of COVID-19 
 
 Would like to find a solution through the use of existing infrastructure for nurses to be able to communicate virtually/hands free to their coworkers outside the room, and with themselves.
 
-The pitch deck is also attached.
 
 ## App Description
 
